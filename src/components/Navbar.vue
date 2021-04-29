@@ -16,7 +16,7 @@
 
     <nav class="green darken-2">
       <div class="nav-wrapper">
-        <router-link to="/" class="brand-logo">Task</router-link>
+        <router-link to="/" class="brand-logo">Taskssss</router-link>
         <ul id="nav-mobile" class="right hide-on-med-and-down">
           <router-link
               v-for="(link,i) in this.$router.options.routes"
